@@ -1,0 +1,265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Sewon I" 
+        },
+        "geometry": {
+          "coordinates": [
+            110.35339706872276,
+            -7.86091248380265
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Kasihan I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.31215888047632,
+            -7.838366198953466
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Jetis"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3624675076507,
+            -7.783296666198581
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Kraton"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36501027587695,
+            -7.806053841421885
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Mlati I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36288193544095,
+            -7.754464446172975
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Tegalrejo"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36157264323731,
+            -7.77252087672062
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Depok I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.43141560687457,
+            -7.774897876354217
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Danurejan I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37521645766168,
+            -7.794552654983306
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Umbulharjo I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38971275490047,
+            -7.800203660922094
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Gondomanan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37050243484009,
+            -7.803924122735424
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Minggir"
+        },
+        "geometry": {
+          "coordinates": [
+            110.23903857586578,
+            -7.7213476711064
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Ngaglik II"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3886956503627,
+            -7.689680116984491
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Bnabguntapan II"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38357906645797,
+            -7.844535629543017
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Bnatul II"
+        },
+        "geometry": {
+          "coordinates": [
+            110.32717843161555,
+            -7.871558809991356
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Bnatul"
+        },
+        "geometry": {
+          "coordinates": [
+            110.33079450133005,
+            -7.880836029438754
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Moyudan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.25284696898831,
+            -7.776032790911444
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Sedayu I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.27645664526244,
+            -7.801752486693914
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Gedong Tengen"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35772856977968,
+            -7.7911300229797575
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Pembantu Bener"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35360166312165,
+            -7.776716933916219
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Wirobrajan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.34809118451676,
+            -7.810609005711484
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
